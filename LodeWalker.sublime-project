@@ -1,0 +1,12 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": ".",
+            "file_exclude_patterns": ["Library/*", "Temp/*", "*.prefab", "*.controller", "*.meta", "*.asset",
+			"*.mat", "*.dll", "*.obj", "*.o", "*.a", "*.lib", ".DS_Store", "*.sublime-workspace"]
+        }
+    ],
+    "solution_file": "./DeckHack.sln"
+}
