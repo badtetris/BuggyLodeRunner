@@ -26,6 +26,9 @@ ExportedObj/
 *.pdb
 *.opendb
 
+*.sublime-project
+*.sublime-workspace
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
